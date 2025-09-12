@@ -5,7 +5,7 @@
   <title>smart city AI</title>
 </head>
 <body>
-  <h1>Redirecting to Citizen-AI...</h1>
+  <h1>Redirecting to smart city-AI...</h1>
   <p>If you are not redirected automatically, 
      <a href="https://huggingface.co/spaces/23ucs565/smartcity">click here</a>.
   </p>
